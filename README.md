@@ -1,8 +1,4 @@
-# 🚀 ComfyUI Cloud Infrastructure: Afrofuturism & Innovation
-
-Este repositório documenta a implementação de uma infraestrutura escalável para IA Generativa, utilizando **ComfyUI** rodando em instâncias de nuvem. O foco deste projeto é unir a eficiência técnica da ciência de dados com a exploração estética do Afrofuturismo e Surrealismo.
-
-## 📋 Sobre o Projeto
+## Sobre
 Para superar limitações de hardware local (reduzindo o tempo de renderização de 8 minutos para 40 segundos), desenvolvi um ambiente no **Google Colab** que gerencia workflows complexos de Stable Diffusion XL.
 
 ### O que este setup resolve:
@@ -12,7 +8,7 @@ Para superar limitações de hardware local (reduzindo o tempo de renderização
 
 ---
 
-## 🛠️ Tecnologias e Competências
+## Tecnologias e Competências
 * **Python:** Scripting para automação do servidor e gestão de processos.
 * **Linux/Bash:** Manipulação de diretórios, gestão de permissões e processos (`pkill`, `ln -s`, `mkdir`).
 * **Cloud Computing:** Orquestração de ambiente no Google Colab.
@@ -20,7 +16,7 @@ Para superar limitações de hardware local (reduzindo o tempo de renderização
 
 ---
 
-## 🖼️ Resultados (Creative Research)
+## Resultados (Creative Research)
 Abaixo, um exemplo de renderização gerada com este setup em apenas **40 segundos**:
 
 <p align="center">
@@ -29,7 +25,7 @@ Abaixo, um exemplo de renderização gerada com este setup em apenas **40 segund
 
 ---
 
-## 🚀 Como utilizar
+##  Como utilizar
 1. Suba o arquivo `comfyui_setup.ipynb` para o seu Google Colab.
 2. Organize suas pastas no Drive conforme a seção de `# Setup e Modelos`.
 3. Execute as células em ordem para liberar o link do túnel Cloudflare.
